@@ -83,3 +83,40 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhi0092&show_icons=true&locale=en&layout=compact" />
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🧠 **Talking Skull**  
+  An interactive AI-based hardware–software system integrating voice interaction, motion, and automation.
+
+- 🌐 **CommuLink**  
+  A community-focused web platform built using **React and JavaScript**, aimed at improving local connectivity and engagement.
+
+---
+
+### 🎯 Currently Working On
+
+- Preparing for **GATE DA** with a strong focus on core CS and data science fundamentals  
+- Building and improving projects using **React, JavaScript, and Python**  
+- Strengthening problem-solving and technical depth through consistent practice  
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **NPTEL Topper**  
+- 🎓 B.Tech CSE (AI) student with **CGPA 8.0**  
+- 👩‍💼 **Core Coordinator** at Career Development Cell (CDC), Parul University  
+- 🤖 Former member of **Team PU Robocon**, with hands-on exposure to electronics, mechanical systems, and hardware technologies  
+- 🏆 Multiple medals in **badminton and athletics** during school years  
+
+---
+
+### 📬 Reach Me
+
+- 📧 **Email:** siddhirajput0027@gmail.com  
+- 🔗 **LinkedIn:** www.linkedin.com/in/siddhihrajput  
+
+---
