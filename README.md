@@ -35,7 +35,17 @@
   <a href="mailto:siddhirajput0027@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/SiddhiRajput0092/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://takeuforward.org/profile/siddhi0027" target="_blank">
+    <img src="https://img.shields.io/badge/TakeUForward-4A90E2?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/siddhirajput" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-0000FF?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
@@ -61,23 +71,6 @@
 
 - Preparing for **GATE DA** with a strong focus on core CS and data science fundamentals  
 - Building and improving projects using **React, JavaScript, and Python**  
-- Strengthening problem-solving and technical depth through consistent practice  
-
----
-
-### 🏆 Achievements
-
-- 🥇 **NPTEL Topper**  
-- 🎓 B.Tech CSE (AI) student with **CGPA 8.0**  
-- 👩‍💼 **Core Coordinator** at Career Development Cell (CDC), Parul University  
-- 🤖 Former member of **Team PU Robocon**, with hands-on exposure to electronics, mechanical systems, and hardware technologies  
-- 🏆 Multiple medals in **badminton and athletics** during school years  
-
----
-
-### 📬 Reach Me
-
-- 📧 **Email:** siddhirajput0027@gmail.com  
-- 🔗 **LinkedIn:** www.linkedin.com/in/siddhihrajput  
+- Strengthening problem-solving and technical depth through consistent practice in DSA  
 
 ---
