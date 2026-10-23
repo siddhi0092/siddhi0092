@@ -19,7 +19,7 @@
 <p align="center">
   🎓 B.Tech CSE (AI) · Parul University
   <br/>
-  💼 Product Management Intern · Product Squads
+  💼 Intern · Product Squads
   <br/>
   🤖 Interested in building useful, reliable AI-powered products
 </p>
